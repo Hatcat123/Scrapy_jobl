@@ -1,0 +1,2 @@
+# Scrapy_jobl
+按照教学视频学习Scrapy爬取job伯乐的整理
